@@ -1,7 +1,8 @@
 # 3D- printer
 
+<img src="./Снимки/logo.png" style="margin-right: auto;" />
+
 Полезни линкове:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Уеб страница: http://3dprint.webimpression.net/home
 
