@@ -1,4 +1,4 @@
-# 3D- printer
+# Axis 3D-Принтер
 
 <img src="./Снимки/logo.png" style="margin-right: auto;" />
 
